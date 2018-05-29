@@ -80,7 +80,7 @@ namespace GestorPrestamos
         {
             titulo.Text = "";
             codigo.Text = "";
-            precio.Text = "";
+            precio.Text = "0.00";
             autor.Text = "";
             editorial.Text = "";
             isbn.Text = "";
